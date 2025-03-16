@@ -1,0 +1,15 @@
+Garlic_gff: "input/araTha_Garlic.gff"
+
+RM2_gff: "input/araTha_RM2.gff"
+
+RM2_fasta: "input/araTha_RM2.fa"
+
+EG_gff: "input/araTha_EG.gff"
+
+EDTA_gff: "input/araTha_EDTA.gff"
+
+seq_len: 100000000
+
+seq_name: "araTha"
+
+output_dir: output
