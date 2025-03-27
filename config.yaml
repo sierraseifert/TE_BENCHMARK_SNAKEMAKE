@@ -12,4 +12,14 @@ seq_len: 100000000
 
 seq_name: "araTha"
 
+Model: "Arabidopsis thaliana"
+
 output_dir: output
+
+programs_short:
+    - "EG"
+    - "EDTA"
+    - "RM2"
+    - "Garlic"
+
+TE_type: ""
