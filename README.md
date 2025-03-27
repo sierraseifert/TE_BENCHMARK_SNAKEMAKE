@@ -64,6 +64,9 @@ The following is a quick guide on how to download and test the snakemake workflo
 > ```
 * You should also see all 11 output files in the `/output` directory, which you can compare to those housed on this repository.
 
+### Updates:
+To come: an optional step to perform analyses on individual TE types (ie. LINE/SINE/LTR/etc) will be added in the near future!
+
 ### References:
 This workflow was built using the Snakemake resources provided by
 
