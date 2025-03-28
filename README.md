@@ -1,6 +1,6 @@
 [![Snakemake](https://img.shields.io/badge/snakemake-≥3.13.3-brightgreen.svg?style=flat)](https://snakemake.readthedocs.io)
 
-# Welcome to the Snakemake workflow associated with the manuscript xxx.
+# Welcome to the Snakemake workflow associated with the manuscript *A Foundational Benchmarking Workflow for Transposable Element Discovery Pipelines* (submitted).
 The following is a quick guide on how to download and test the snakemake workflow. You can then adapt the config.yml file to suit your data!
 
 ## To Use on local computer or cluster via terminal with Conda installed
